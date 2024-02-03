@@ -1,4 +1,13 @@
-### Hi there 👋
+![Header-image](assets/header-git.jpg)
+
+#### Welcome! 👋
+I'm a tech enthusiast who loves learning about new things. I have a strong interest in data and learning how to handle it. I find great satisfaction in solving complex data puzzles and building efficient pipelines 😀.
+- 🌱 Currently, I am learning technologies and tools related to Data Engineering.
+- 👯 I would love to connect and collaborate on exciting data-driven projects!
+- 📫 How to reach me:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin)](https://www.linkedin.com/in/muhammad-rifa/)
+  [![Gmail](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white)](mailto:rifamuhammad812@gmail.com)
+- ⚡ Fun fact: Harry's ability to speak Parseltongue has inspired me to learn Python 😄.
 
 <!--
 **rifa8/rifa8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
