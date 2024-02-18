@@ -1,6 +1,6 @@
 ![Header-image](assets/header-git.jpg)
 
-#### Welcome! 👋
+## Welcome! 👋
 I'm a tech enthusiast who loves learning about new things. I have a strong interest in data and learning how to handle it. I find great satisfaction in solving complex data puzzles and building efficient pipelines 😀.
 - 🌱 Currently, I am learning technologies and tools related to Data Engineering.
 <p align="left">
